@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Mohilmkamble@gmail.com**
 
-- ⚡ Fun fact **I have a Girl friend**
+- ⚡ I have supportive  gf 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
