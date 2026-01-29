@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning **Dart**
 
 - 📫 How to reach me **Mohilmkamble@gmail.com**
-
-- ⚡ I have supportive  gf 
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
