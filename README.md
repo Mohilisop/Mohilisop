@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=210&section=header&text=Mohil%20Kamble&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Creator%20of%20Argis%20%E2%80%94%20the%20509-platform%20OSINT%20scanner&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mohil%20Kamble&fontSize=44&fontColor=ffffff&animation=fadeIn&textAlignY=34&desc=Creator%20of%20Argis%20%E2%80%94%20the%20509-platform%20OSINT%20scanner&descAlignY=68&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duplicate=false&pause=1200&color=70A5FD&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Mohil+%F0%9F%91%8B;Async+Python+%7C+CLI+Tools+%7C+OSINT;Building+Argis+%E2%80%94+509%2B+platforms%2C+one+CLI;Currently+leveling+up+in+Dart+%F0%9F%8C%B1" />
 
