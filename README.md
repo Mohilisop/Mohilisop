@@ -36,7 +36,7 @@ mohil:
 ### the all-seeing OSINT scanner
 
 [![PyPI version](https://img.shields.io/pypi/v/argis?color=ea7233&style=flat-square)](https://pypi.org/project/argis/)
-[![Downloads](https://img.shields.io/pypi/dm/argis?color=blue&style=flat-square)](https://pypi.org/project/argis/)
+[![Downloads](https://static.pepy.tech/badge/argis)](https://pepy.tech/project/argis)
 [![Python versions](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)](https://pypi.org/project/argis/)
 [![License](https://img.shields.io/github/license/Mohilisop/argis?style=flat-square)](https://github.com/Mohilisop/Argis/blob/main/LICENSE)
 [![Docker](https://img.shields.io/badge/docker-supported-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Mohilisop/Argis/blob/main/Dockerfile)
